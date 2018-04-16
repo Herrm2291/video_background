@@ -22,7 +22,7 @@ body {
 
 .container {
   max-width: 960px;
-  padding: 20px 0;
+  padding: 20px;
   margin: auto;
   text-align: center;
 }
@@ -56,11 +56,6 @@ body {
   z-index: 2;
 }
 
-.header-content h1 {
-  font-size: 50px;
-  margin-bottom: 0;
-}
-
 .header-content p {
   font-size: 1.5rem;
   display: block;
@@ -73,10 +68,6 @@ body {
   font-size: 1.2rem;
   padding: 1rem 2rem;
   text-decoration: none;
-}
-
-.section {
-  padding: 20px 0;
 }
 
 .section-b {
